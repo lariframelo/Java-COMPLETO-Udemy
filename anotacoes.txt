@@ -1,0 +1,43 @@
+JAVA
+
+Operadores Bitwise
+Operações lógicas bit a bit 
+
+Saída de Dados :
+System.out.println (pula uma linha)
+System.out.printf (formatado)
+
+Locale.setDefault(Locale.US);//Mudar o padrão pra americano
+
+Entrada de Dados
+Para fazer a entrada de dados 
+tem que criar um objeto do tipo "Scanner"
+
+Scanner sc = new Scanner(System.in);
+x = sc.next(); //para ler uma palavra.
+x = sc.nextInt(); //para ler inteiros 
+x = sc.nextDouble(); //para ler um double
+sc.close() quando não precisar mais do objeto
+
+Funções para string :
+*Formatar:
+toLowerCase() - imprime todas em letras minúsculas
+toUpperCase() - imprime todas as letras maiúsculas
+trim() - elimina os espaços nos cantos da String
+
+*Recortar:
+substring(inicio) - indica a partir de quando considerar a string
+substring(inicio, fim) - recorta a string
+
+*Substituir:
+Replace(char, char) - toda vez que achar 'x' troca por 'y'
+Replace(string, string)
+
+*Buscar:
+IndexOf - buscar a posição (primeira)
+LastIndexOf - buscar a última;
+
+str.Split(" ") - ele gera um vetor com a string
+usando um separador como parâmetro.
+
+Funções matemáticas:
