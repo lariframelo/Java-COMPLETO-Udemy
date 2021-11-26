@@ -40,4 +40,9 @@ LastIndexOf - buscar a última;
 str.Split(" ") - ele gera um vetor com a string
 usando um separador como parâmetro.
 
-Funções matemáticas:
+Date
+
+SimpleDateFormat - define formatos para 
+conversão entre Date e String 
+
+Padrão ISO 8601 
