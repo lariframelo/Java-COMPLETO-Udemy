@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Estrutura-TryCatch.iml" filepath="$PROJECT_DIR$/Estrutura-TryCatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tratamento de excessões.iml" filepath="$PROJECT_DIR$/Tratamento de excessões.iml" />
     </modules>
   </component>
 </project>

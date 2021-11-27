@@ -46,3 +46,6 @@ SimpleDateFormat - define formatos para
 conversão entre Date e String 
 
 Padrão ISO 8601 
+
+Tratamento de Excessões 
+stackTrace - descreve a exceção 

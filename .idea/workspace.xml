@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be7ef71c-c2b6-44fc-bce5-8095ab16ae06" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-conceitos-de-programacao.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-estrutura-sequencial(para-anotacoes).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-estrutura-sequencial.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-estrutura-condicional(para-anotacoes).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-estrutura-condicional.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-memoria-arrays-e-listas(para-anotacoes).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-memoria-arrays-e-listas.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-heranca-e-polimorfismo(para-anotacao).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-heranca-e-polimorfismo.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-tratamento-de-excecoes(espaco-para-anotacoes).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-tratamento-de-excecoes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura-TryCatch/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura-TryCatch/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura-TryCatch/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura-TryCatch/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura-TryCatch/Estrutura-TryCatch.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura-TryCatch/out/production/Estrutura-TryCatch/application/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura-TryCatch/src/application/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-COMPLETO-Udemy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/anotacoes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-COMPLETO-Udemy/application/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-COMPLETO-Udemy/entities/Department.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-COMPLETO-Udemy/entities/HourContract.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-COMPLETO-Udemy/entities/Worker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-COMPLETO-Udemy/entities/enums/WorkerLevel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entities/Department.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entities/HourContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entities/Worker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entities/enums/WorkerLevel.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21T750oIyLtK2OhXNYyLFrFr2p1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\LARISSA TI\Repositório GitHub\Java-COMPLETO-Udemy" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be7ef71c-c2b6-44fc-bce5-8095ab16ae06" name="Changes" comment="" />
+      <created>1637953040021</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637953040021</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
