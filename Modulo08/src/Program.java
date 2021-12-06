@@ -1,7 +1,11 @@
-package application;
+import entities.Triangle;
 
 import java.util.Locale;
 import java.util.Scanner;
+
+public class Program {
+
+
 
 /*
     @lariframelo pelo curso de Nélio Alves - Udemy
@@ -10,34 +14,31 @@ import java.util.Scanner;
    O programa deve ler os lados de um triângulo
    e em seguida retornar sua área
  */
-public class Program {
 
     public static void main(String[] args) {
         //declaração de variáveis, preparação do ambiente
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
-        double xA, xB, xC, yA, yB, yC;
+        Triangle x, y;
+        x = new Triangle();
+        y = new Triangle();
 
         //entrada dos dados
         System.out.println("Enter the measures of triangle x: ");
-        xA = sc.nextDouble();
-        xB = sc.nextDouble();
-        xC = sc.nextDouble();
+        x.a = sc.nextDouble();
+        x.b = sc.nextDouble();
+        x.c = sc.nextDouble();
         System.out.println("Enter the measures of triangle y: ");
-        yA = sc.nextDouble();
-        yB = sc.nextDouble();
-        yC = sc.nextDouble();
+        y.a = sc.nextDouble();
+        y.b = sc.nextDouble();
+        y.c = sc.nextDouble();
 
         //execução do programa
-        double p = (xA + xB + xC) / 2.0;
-        double areaX = Math.sqrt(p * (p - xA) * (p - xB) * (p - xC));
-
-        p = (yA + yB + yC) / 2.0;
-        double areaY = Math.sqrt(p * (p - yA) * (p - yB) * (p - yC));
-
+        double areaX = x.area();
+        double areaY = y.area();
         //retorno da operação
-        System.out.printf("Triangle X area: %.4f%n",areaX);
-        System.out.printf("Triangle Y area: %.4f%n",areaY);
+        System.out.printf("Triangle X area: %.4f%n", areaX);
+        System.out.printf("Triangle Y area: %.4f%n", areaY);
 
         //Teste de área maior
         if (areaX > areaY) {
@@ -48,3 +49,6 @@ public class Program {
         sc.close();
     }
 }
+
+
+
